@@ -1,0 +1,31 @@
+Beste,
+
+
+Welkom in uw homedirmap.
+
+In deze map vindt u standaard drie items nl. dit bestand, en twee mappen:
+* data: map om gewone data in te plaatsen
+* www: map om je website in te plaatsen
+
+U kan deze data op drie manieren bereiken: via www, ftp of een windows netwerkshare.
+
+- WWW: De map www in je homedirectory is toegankelijk via een webbrowser. Hier kan je je website plaatsen. De standaard URL is:
+http://users.hogent.be/~<UID> zoals in http://users.hogent.be/~012345ab.
+
+- FTP: met een ftp client verbindt je met de server webs.hogent.be. Daar log je in met DOMEIN\UID (bvb. EDU\012345ab of ADM\012345ab) en je wachtwoord.
+
+- Windows netwerkshare: maak een netwerkverbing naar \\users.hogent.be\uid, bvb \\users.hogent.be\012345ab en verbind met je DOMEIN gegevens.
+Je gebruikersnaam wordt dan <DOMEIN>\uid zoals bvb. EDU\012345ab of ADM\jbon007.
+
+Via het internet kan je deze data enkel via WWW en FTP bereiken. Om een windows netwerkshare te maken,
+dien je ingelogd te zijn via VPN of dien je te werken binnen het netwerk van Hogent.
+
+OPGELET: Personeelsleden die hun DOMEIN gegevens niet kennen, kunnen deze aanvragen bij de helpdesk.
+
+
+Meer info op http://helpdesk.hogent.be of via helpdesk@hogent.be
+
+
+Veel Succes
+
+Directie ICT en Financiën
